@@ -1,7 +1,8 @@
 <content.welcome>
 Hey, I’m Sha256dow, aka Teuz.
-I’m interested in learning new subjects about I.T and correlatives.
-I’m currently learning Python and Cybersecurity, so I want to unite them both.
-You'll be able to contact me on Sha256dow@outlook.com :)
-Sometimes i'll post some random programming lines that not even exist, but i sure you guys that i'm not schizo.
+I am interested in learning new IT and related subjects.
+Currently learning about Cybersecurity, Python and C# so I would like to combine them.
+You will be able to contact me:
+contato.mateusantos@hotmail.com ;
+https://www.linkedin.com/in/mateusantos-infosec ;
 <content.finish> /;
